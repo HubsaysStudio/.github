@@ -24,6 +24,7 @@ Hubsays Studio is the public surface for my architecture work: a practical blend
 - Commercial profile: [Brendan Davies](https://hubsays.com/brendan-davies/)
 - Evidence: [Quantified outcomes](https://hubsays.com/evidence/)
 - Recruiter reference: [AI Privacy](https://hubsays.com/ai-privacy-enterprise.html)
+- Recruiter reference: [Structured LLM Outputs](https://hubsays.com/llm-structured-outputs.html)
 - Architecture notes: [Blog](https://hubsays.com/blog/index.html)
 
 ## Current Themes
